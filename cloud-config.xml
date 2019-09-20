@@ -3,3 +3,5 @@ rancher:
   disable:
   - password
   - autologin
+ssh_authorized_keys:
+  ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAqNJYn1LOjvimjaADi8PTQdVwjx5tpE6B2I2/OR+XI85/t3tlh4DJBTp6wVy5UXtl4Z+gQaldbWlMIVaoZNz5wS+UoPpCxB4GuG2I5Shs6JOT5m05My0DHhAvz/FDf1bsuFSgkDoR+bvoVTb3Y/kfoWsRSL/jkYORMpQqWyRTKTXZVnMguboMBSbvkVzWLvEdlfYIv3aPt0+pgLOD9tPUlmLq2b2UJgZOiNUJRZc6EIdskbm2Fy4FUatcbDlHIggYCyL3K4rdsDHSpLhhmYbZ+r25W+WLMrkNqQAMNt+VxYhIk3tcZAqcTyPWuCzfcnGotJm2J8MYXBFk7er4HBIzUQ== asuran
